@@ -1,6 +1,6 @@
-#Oneplus 6 Enchilada
+# Oneplus 6 Enchilada
 
-##Corvus V8.0
+## Corvus V8.0
 
 - BoardConfig: Sync boot image header with OOS
 - Update to Coral's Aug fingerprint
